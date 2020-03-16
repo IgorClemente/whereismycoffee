@@ -36,17 +36,17 @@
 
 ## :rocket: Descrição
 
+Where is my coffee é uma aplicação para quem quer encontrar cafeterias através da sua localização. É possível adicionar novas cafeterias e avaliar as que já existem.
+
 ## :computer: Tecnologias e Ferramentas
 
 - [Swift](https://www.apple.com/br/swift/)
+- [MapKit](https://developer.apple.com/documentation/mapkit)
 - [CoreData Framework](https://developer.apple.com/documentation/coredata)
 
 ## :movie_camera: Preview
 
-<h2>
-  [![](preview/trevalone01.gif)](https://www.youtube.com/watch?v=BSpLC6BmtvA)
-  [![](preview/trevalone01.gif)](https://www.youtube.com/watch?v=HGe0YBPlL2M)
-</h2>
+[![Where is my coffee](http://img.youtube.com/vi/NfqFVKNhUmA/0.jpg)](http://www.youtube.com/watch?v=NfqFVKNhUmA "Where is my coffee")
 
 ## :iphone: Screenshot
 
