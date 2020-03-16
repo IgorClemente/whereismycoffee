@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="Where is my coffee" src="logo.png" width="500px" />
+    <img alt="Where is my coffee" src="logo.png" width="400px" />
 </h1>
 
 <h3 align="center">
