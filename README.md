@@ -51,14 +51,14 @@
 ## :iphone: Screenshot
 
 <h2 align="center">
-  <img src="https://github.com/IgorClemente/CoreData/blob/master/screenshots/screenshot01.png" width="428" height="970" />
-  <img src="https://github.com/IgorClemente/CoreData/blob/master/screenshots/screenshot02.png" width="428" height="970" />
-  <img src="https://github.com/IgorClemente/CoreData/blob/master/screenshots/screenshot03.png" width="428" height="970" />
-  <img src="https://github.com/IgorClemente/CoreData/blob/master/screenshots/screenshot04.png" width="428" height="970" />
-  <img src="https://github.com/IgorClemente/CoreData/blob/master/screenshots/screenshot05.png" width="428" height="970" />
-  <img src="https://github.com/IgorClemente/CoreData/blob/master/screenshots/screenshot06.png" width="428" height="970" />
-  <img src="https://github.com/IgorClemente/CoreData/blob/master/screenshots/screenshot07.png" width="428" height="970" />
-  <img src="https://github.com/IgorClemente/CoreData/blob/master/screenshots/screenshot08.png" width="428" height="970" />
+  <img src="https://github.com/IgorClemente/whereismycoffee/blob/master/screenshots/screenshot01.png" width="428" height="970" />
+  <img src="https://github.com/IgorClemente/whereismycoffee/blob/master/screenshots/screenshot02.png" width="428" height="970" />
+  <img src="https://github.com/IgorClemente/whereismycoffee/blob/master/screenshots/screenshot03.png" width="428" height="970" />
+  <img src="https://github.com/IgorClemente/whereismycoffee/blob/master/screenshots/screenshot04.png" width="428" height="970" />
+  <img src="https://github.com/IgorClemente/whereismycoffee/blob/master/screenshots/screenshot05.png" width="428" height="970" />
+  <img src="https://github.com/IgorClemente/whereismycoffee/blob/master/screenshots/screenshot06.png" width="428" height="970" />
+  <img src="https://github.com/IgorClemente/whereismycoffee/blob/master/screenshots/screenshot07.png" width="428" height="970" />
+  <img src="https://github.com/IgorClemente/whereismycoffee/blob/master/screenshots/screenshot08.png" width="428" height="970" />
 </h2>
 
 ## :memo: Licença
